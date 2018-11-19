@@ -183,3 +183,9 @@ button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focus
     content: "";
     clear: both
 }
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}

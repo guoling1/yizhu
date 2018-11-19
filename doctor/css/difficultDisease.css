@@ -1,0 +1,67 @@
+.search{
+    padding: 0.24rem 0.4rem 0.17rem;
+}
+.search input{
+    margin-right: 0.22rem;
+    padding: 0.1rem 0;
+    width: 6.05rem;
+    height: 0.48rem;
+    line-height: 0.48rem;
+    background: #e7e7e7;
+    text-align: center;
+    border-radius: 0.07rem;
+}
+.search img{
+    width: 0.28rem;
+    height: 0.27rem;
+}
+ul li{
+    padding: 0.3rem 0.3rem 0;
+    border-bottom: 0.2rem solid #f6f6f6;
+}
+ul li .top{
+    font-size: 0.26rem;
+    color: #666;
+    line-height: 0.54rem;
+}
+ul li .top,ul li .img_group,ul li .title,ul li .img_big,ul li .detail{
+    margin-bottom: 0.28rem;
+}
+ul li .top .avatar{
+    position: relative;
+    display: inline-block;
+    width: 0.54rem;
+    height: 0.54rem;
+    vertical-align: middle;
+}
+ul li .top .avatar i{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 0.2rem;
+    height: 0.2rem;
+    background: url("../images/vip.png") no-repeat;
+    background-size: 100% 100%;
+}
+ul li .img_group img{
+    width: 2.2rem;
+    height: 1.8rem;
+}
+ul li .title{
+    font-size: 0.28rem;
+    color: #222;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+}
+ul li .detail{
+    font-size: 0.26rem;
+    color: #666;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:3;
+}
