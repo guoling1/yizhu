@@ -2,16 +2,19 @@
     background: url("../images/index_bg.png") no-repeat;
     background-size: 100% auto;
 }
-.top .personal_data{
+
+.top .personal_data {
     padding-top: 0.34rem;
     height: 2rem;
     color: #fff;
 }
-.top .personal_data .left{
+
+.top .personal_data .left {
     float: left;
     position: relative;
     margin: 0 0.4rem 0 0.25rem;
 }
+
 .top .personal_data .left img {
     width: 1.4rem;
     height: 1.4rem;
@@ -34,18 +37,22 @@
     display: inline-block;
     background-size: 0.24rem 0.24rem;
 }
+
 .top .personal_data .left .man {
     background: url("../images/man.png") no-repeat center center;
 }
+
 .top .personal_data .left .woman {
     background: url("../images/woman.png") no-repeat center center;
 }
-.top .personal_data .right .name{
+
+.top .personal_data .right .name {
     margin: 0.2rem 0 0.08rem;;
     font-size: 0.37rem;
     font-weight: bold;
 }
-.top .personal_order{
+
+.top .personal_order {
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
@@ -56,28 +63,44 @@
     text-align: center;
     color: #a6b0ca;
     font-weight: bold;
+    box-shadow: 0 10px 25px #b6ccfa87;
 }
-.top .personal_order .number{
+
+.top .personal_order .number {
     color: #4e87ff;
     font-size: 0.37rem;
 }
-.top .personal_order .number.money{
+
+.top .personal_order .number.money {
     color: #fd5f60;
 }
-ul{
+
+ul {
     padding: 0.25rem 0.25rem 0;
 }
-ul li{
+
+ul:last-child {
+    padding-top: 0;
+}
+
+ul li {
     height: 1rem;
     line-height: 1rem;
     font-size: 0.32rem;
     border-bottom: 1px solid #f4f4f4;
 }
-ul li img{
+
+ul li img {
     margin-right: 0.25rem;
     width: 0.3rem;
     height: auto;
     vertical-align: middle;
+}
+
+i {
+    display: block;
+    height: 0.2rem;
+    background: #f9f9f9;
 }
 
 
