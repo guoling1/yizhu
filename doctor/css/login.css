@@ -1,0 +1,79 @@
+html,body{
+    height: 100%;
+}
+.container{
+    position: relative;
+    padding: 0 0.3rem;
+    /*width: 100%;*/
+    height: 100%;
+}
+.top{
+    height: 3.34rem;
+    background: url("../images/login_img.png") no-repeat top right;
+    background-size: auto 2.6rem;
+}
+.container .top p{
+    line-height: 0.88rem;
+    font-size: 0.34rem;
+    color: #444c59;
+    text-align: center;
+}
+form div{
+    margin-top: 0.56rem;
+    line-height: 0.55rem;
+    font-size: 0.28rem;
+    border-bottom: 0.01rem solid #e0e0e0;
+}
+form div label{
+    display: inline-block;
+    width: 1.6rem;
+}
+form div input{
+    display: inline-block;
+    width: 5rem;
+    height: 0.55rem;
+}
+.remember{
+    margin-top: 0.29rem;
+}
+.remember .select{
+    display: inline-block;
+    width: 0.18rem;
+    height: 0.18rem;
+    border: 1px solid #999;
+    border-radius: 1px;
+    vertical-align: middle;
+}
+.remember .select.active{
+    background: url("../images/tick.png") no-repeat;
+    background-size: 0.2rem 0.2rem;
+}
+.remember span{
+    font-size: 0.2rem;
+    color: #999;
+}
+.button{
+    margin: 1.57rem auto 0;
+    width: 6rem;
+    line-height: 0.88rem;
+    font-size: 0.32rem;
+    color: #fff;
+    text-align: center;
+    background: #2a8cff;
+    border-radius: 0.05rem;
+}
+.bottom{
+    position: absolute;
+    bottom: 0.5rem;
+    left: 0.8rem;
+    color: #999;
+}
+.bottom img{
+    width: 0.22rem;
+    height: 0.22rem;
+}
+.bottom .agreement{
+    font-weight: bold;
+    color: #000;
+    text-decoration: underline;
+}

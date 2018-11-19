@@ -1,0 +1,40 @@
+.header_write{
+    /*background: #fff;*/
+}
+form{
+    padding: 0 0.25rem;
+}
+form div{
+    height: 0.78rem;
+    margin-bottom: 0.11rem;
+    border-bottom: 1px solid #f4f4f4;
+    font-size: 0.28rem             ;
+}
+form div input{
+    height: 100%;
+    width: 5rem;
+}
+form .code span{
+    float: right;
+    display: inline-block;
+    margin-bottom: 0.23rem;
+    width: 1.8rem;
+    height: 0.55rem;
+    line-height: 0.55rem;
+    background: #2a8cff;
+    border-radius: 0.05rem;
+    font-size: 0.24rem;
+    text-align: center;
+    color: #fff;
+}
+.submit{
+    margin: 1.5rem auto 0;
+    width: 5.5rem;
+    height: 0.88rem;
+    line-height: 0.88rem;
+    background: #2a8cff;
+    border-radius: 0.05rem;
+    font-size: 0.32rem;
+    text-align: center;
+    color: #fff;
+}
