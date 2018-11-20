@@ -30,6 +30,7 @@
     font-size: 0.32rem;
 }
 .tab{
+    position: relative;
     display: flex;
     justify-content: space-around;
     height: 0.98rem;
@@ -43,14 +44,35 @@
     color: #2a8cff;
     font-weight: bold;
 }
+
 .tab div img{
-    display: none;
-}
-.tab .active img{
     display: inline-block;
     width: 0.21rem;
     height: 0.09rem;
     vertical-align: middle;
+}
+.tab .mask{
+    display: none;
+    position: absolute;
+    top: 0.98rem;
+    width: 100%;
+    height: 15rem;
+    /*background: #000;*/
+    /*opacity: 0.2;*/
+    background: rgba(0,0,0,0.35);
+}
+.tab .mask .content{
+    display: flex;
+    justify-content: space-around;
+    height: 0.98rem;
+    line-height: 0.98rem;
+    background: #fff;
+    font-size: 0.28rem;
+    color: #666;
+}
+.tab .mask .content .active{
+    color: #333;
+    font-weight: bold;
 }
 ul{
     padding: 0 0.25rem;

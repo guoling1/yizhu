@@ -1,0 +1,16 @@
+.content{
+    padding: 0.2rem;
+    font-size: 0.28rem;
+    line-height: 0.55rem;
+}
+.bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.88rem;
+    line-height: 0.88rem;
+    font-size: 0.32rem;
+    color: #fff;
+    text-align: center;
+    background: #2a8cff;
+}

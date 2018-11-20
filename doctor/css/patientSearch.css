@@ -1,0 +1,16 @@
+input{
+    margin: 0.35rem 0.3rem 0;
+    height: 0.55rem;
+    line-height: 0.55rem;
+    width: 90%;
+}
+.search{
+    margin: 3rem 0.3rem 0;
+    background: #2a8cff;
+    text-align: center;
+    height: 0.88rem;
+    line-height: 0.88rem;
+    font-size: 0.31rem;
+    border-radius: 0.05rem;
+    color: #fff;
+}
