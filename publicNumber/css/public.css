@@ -1,18 +1,18 @@
 .header{
     position: fixed;
-    background: #4e87ff;
+    background: #fff;
     height: 0.88rem;
     line-height: 0.88rem;
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #333;
     z-index: 1;
+    border-bottom: 1px solid #e5e5e5;
 }
 
-.header.header_write{
-    border-bottom: 1px solid #e5e5e5;
-    background: #fff;
-    color: #333;
+.header.header_blue{
+    background: #4e87ff;
+    color: #fff;
 }
 .header.header_black{
     background: #353439;
@@ -44,12 +44,12 @@
     height: 100%;
     text-align: right;
 }
-.header .right img{
+.header_blue .right img{
     vertical-align: middle;
     width: 0.38rem;
     height: 0.35rem;
 }
-.header .right i{
+.header_blue .right i{
     position: absolute;
     top: 0.23rem;
     right: 0.2rem;
@@ -70,7 +70,7 @@
     box-shadow: 0 -1px 10px #b6ccfa5e;
 }
 .footer img{
-    margin-top: 0.15rem;
+    margin-top: 0.12rem;
     width: 0.48rem;
     height: 0.48rem;
 }
@@ -78,19 +78,6 @@
     margin-top: -0.05rem;
     font-size: 0.24rem;
     color: #a7adb3;
-}
-.footer .middle{
-    margin-top: -0.4rem;
-    width: 1.65rem;
-    height: 1.65rem;
-    border-radius: 50%;
-    background: #fff;
-    box-shadow: 0 -7px 10px #b6ccfa29;
-}
-.footer .middle img{
-    margin-top: 0.4rem;
-    width: 0.7rem;
-    height: 0.7rem;
 }
 .container{
     padding: 0.88rem 0 0.98rem;

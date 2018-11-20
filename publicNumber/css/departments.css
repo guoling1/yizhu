@@ -1,0 +1,15 @@
+.container{
+    padding-top: 1.28rem;
+}
+ul{
+    text-align: center;
+}
+ul li img{
+    width: 1rem;
+    height: 1rem;
+}
+ul li{
+    margin-bottom: 0.4rem;
+    width: 24%;
+    display: inline-block;
+}
