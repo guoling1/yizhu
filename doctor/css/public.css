@@ -6,6 +6,7 @@
     width: 100%;
     text-align: center;
     color: #fff;
+    z-index: 1;
 }
 
 .header.header_write{
@@ -60,6 +61,7 @@
     height: 0.98rem;
     background: #fff;
     text-align: center;
+    box-shadow: 0 -1px 10px #b6ccfa5e;
 }
 .footer img{
     margin-top: 0.15rem;
@@ -77,6 +79,7 @@
     height: 1.65rem;
     border-radius: 50%;
     background: #fff;
+    box-shadow: 0 -7px 10px #b6ccfa29;
 }
 .footer .middle img{
     margin-top: 0.4rem;

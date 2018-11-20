@@ -11,6 +11,7 @@
     border-radius: 0.25rem;
     text-align: center;
     color: #a6b0ca;
+    box-shadow: 0 10px 25px #b6ccfa87;
 }
 .top .personal_order .money{
     margin-bottom: 0.5rem;
@@ -36,6 +37,7 @@
     font-size: 0.28rem;
     color: #999;
     background: #f3f3f3;
+    margin-top: 0.53rem;
 }
 .tab .active{
     color: #2a8cff;

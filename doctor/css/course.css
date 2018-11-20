@@ -31,6 +31,9 @@ ul li .content .detail span{
     display: inline-block;
     width: 1rem;
 }
+ul li .content .detail .time{
+    width: 1.2rem;
+}
 ul li .content .detail .price{
     color: #fd5f60;
 }
