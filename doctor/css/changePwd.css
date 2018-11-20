@@ -6,9 +6,9 @@ form{
 }
 form div{
     height: 0.78rem;
-    margin-bottom: 0.11rem;
-    border-bottom: 1px solid #f4f4f4;
-    font-size: 0.28rem             ;
+    margin-top: 0.4rem;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 0.28rem;
 }
 form div input{
     height: 100%;
@@ -28,7 +28,10 @@ form .code span{
     color: #fff;
 }
 .submit{
-    margin: 1.5rem auto 0;
+    position: fixed;
+    bottom: 0.42rem;
+    left: 1rem;
+    /* margin: 1.5rem auto 0; */
     width: 5.5rem;
     height: 0.88rem;
     line-height: 0.88rem;

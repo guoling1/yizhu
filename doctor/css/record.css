@@ -39,6 +39,7 @@ ul li{
     padding: 0.36rem 0.3rem;
     font-size: 0.31rem;
     color: #666;
+    border-bottom: 1px solid #eaeaea;
 }
 ul li img{
     margin-top: 0.16rem;
@@ -72,7 +73,7 @@ ul li p:last-child{
     padding: 0.35rem 0;
     margin: 60% auto 0;
     width: 5.76rem;
-    background: #f3f3f3;
+    background: #fff;
     border-radius: 0.23rem;
 }
 .save_record .content .title,.set_price .title{
@@ -102,6 +103,7 @@ ul li p:last-child{
     background: #f3f3f3;
     font-size: 0.28rem;
     text-align: center;
+    box-shadow: 0 -5px 30px #d3dcf66b;
 }
 .finish_mask .finish_top{
     display: flex;

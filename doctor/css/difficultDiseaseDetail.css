@@ -108,12 +108,16 @@
     vertical-align: middle;
 }
 .comment{
-    padding: 0.13rem 0.2rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    padding: 0.13rem 0;
     box-shadow: 0 -3px 1px #f3f2f26b;
 }
 .comment div{
     text-align: center;
-    margin-right: 0.12rem;
+    margin-right: 0.22rem;
 }
 .comment input{
     padding: 0 0.3rem;
@@ -123,6 +127,7 @@
     background: #f6f6f6;
     border-radius: 0.07rem;
     font-size: 0.26rem;
+    margin-left: 0.13rem;
 }
 .comment img{
     width: 0.3rem;
