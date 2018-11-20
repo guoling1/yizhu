@@ -1,0 +1,101 @@
+.top {
+    background: url(../images/patient_bg.png) no-repeat;
+    background-size: 100% auto;
+    padding-top: 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 0.2rem solid #f6f6f6;
+}
+.top .personal_data {
+    margin: 0 auto;
+    padding: 0.3rem 0;
+    width: 93%;
+    background: #fff;
+    border-radius: 0.25rem;
+    color: #a6b0ca;
+    font-weight: bold;
+    box-shadow: 0 10px 25px #b6ccfa87;
+}
+.top .personal_data .avatar {
+    float: left;
+    position: relative;
+    margin: 0 0.4rem 0 0.25rem;
+}
+
+.top .personal_data .avatar img {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+
+.top .personal_data .avatar .sex {
+    position: absolute;
+    bottom: 0.2rem;
+    right: 0;
+    display: inline-block;
+    width: 0.4rem;
+    height: 0.4rem;
+    background: #fff;
+    border-radius: 50%;
+}
+
+.top .personal_data .avatar .sex i {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-size: 0.24rem 0.24rem;
+}
+
+.top .personal_data .avatar .man {
+    background: url("../images/man.png") no-repeat center center;
+}
+
+.top .personal_data .avatar .woman {
+    background: url("../images/woman.png") no-repeat center center;
+}
+
+.top .personal_data .right .name {
+    font-size: 0.32rem;
+    color: #000;
+    font-weight: bold;
+}
+.top .personal_data .right .address {
+    font-size: 0.28rem;
+    color: #666;
+    font-weight: bold;
+}
+.top .personal_data .right .phone {
+    margin-top: 0.1rem;
+    font-size: 0.28rem;
+    color: #2a8cff;
+    font-weight: bold;
+}
+.patient{
+    padding: 0.3rem;
+}
+.patient .title{
+    line-height: 1.10rem;
+    font-size: 0.32rem;
+    color: #000;
+    font-weight: bold;
+}
+.patient ul li{
+    padding: 0 0.3rem;
+    line-height: 1rem;
+    border-bottom: 1px dashed #e9e9e9;
+    font-size: 0.26rem;
+    color: #666666;
+}
+
+.bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.98rem;
+    line-height: 0.98rem;
+    font-size: 0.32rem;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    background: #2a8cff;
+}
+
+

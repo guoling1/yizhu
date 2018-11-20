@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>医嘱</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/record.css">
+</head>
+<body>
+<div class="header header_black">
+    <div class="left" onclick="history.back(-1)">
+        <img src="images/back.png" alt="">
+        <span>返回</span>
+    </div>
+    <div class="title">录制</div>
+    <div class="right finish">完成</div>
+</div>
+<div class="container">
+    <div class="record">
+        <div class="avatar">
+            <img src="images/avatar.png" alt="">
+        </div>
+        <div class="name">康师傅</div>
+        <div class="address">邯郸第一医院|儿科</div>
+        <div class="wave">
+            <img src="images/wave.png" alt="">
+        </div>
+        <div class="time">00:00:00</div>
+        <div class="startStop">
+            <!--<img src="images/record_start.png" alt="">-->
+        </div>
+    </div>
+    <ul>
+        <li class="clear">
+            <div class="left fl">
+                <p>新录音1</p>
+                <p>2018/08/21</p>
+            </div>
+            <img src="images/more_vertical.png" alt="" class="fr">
+            <div class="right fr">00:15.00</div>
+        </li>
+    </ul>
+    <!--保存录音-->
+    <div class="save_record">
+        <div class="content">
+            <p class="title">存储录音文件</p>
+            <input type="text">
+            <div class="btn_group">
+                <span class="save_cancel">取消</span>
+                <span class="save_sure">确定</span>
+            </div>
+        </div>
+    </div>
+    <!--完成-->
+    <div class="finish_mask">
+        <div class="finish_top">
+            <div class="delete">
+                <img src="images/delete.png" alt="">
+                <p>删除</p>
+            </div>
+            <div class="article">
+                <a href="article.html">
+                    <img src="images/article.png" alt="">
+                    <p>文稿</p>
+                </a>
+            </div>
+            <div class="release">
+                <img src="images/release.png" alt="">
+                <p>发布</p>
+            </div>
+        </div>
+        <div class="finish_cancel">取消</div>
+    </div>
+    <!--设置金额-->
+    <div class="set_price">
+        <div class="content">
+            <img src="images/close1.png" alt="" class="close fr">
+            <p class="title">设置课程发布金额</p>
+            <div class="set">
+                <img src="images/number_minus.png" alt="">
+                <input type="text">
+                <img src="images/number_add.png" alt="">
+            </div>
+
+            <div class="submit">确定</div>
+        </div>
+    </div>
+</div>
+
+<script src="js/rem.js"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/record.js"></script>
+</body>
+</html>
