@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/balance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/changeData.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/balance.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/changeData.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/course.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/difficultDisease.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/difficultDiseaseDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/withdraw.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/difficultDisease.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/difficultDiseaseDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/audio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/avatar_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/balance_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/content_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/content_img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/hot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/pencil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/triangle_bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/vip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/wx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/js/balance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/withdraw.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/css/public.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -61,8 +28,8 @@
           <file leaf-file-name="difficultDiseaseDetail.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/doctor/difficultDiseaseDetail.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
-                  <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+                <state relative-caret-position="238">
+                  <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
                   <folding>
                     <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -92,8 +59,8 @@
           <file leaf-file-name="difficultDiseaseDetail.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/doctor/css/difficultDiseaseDetail.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="738">
-                  <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+                <state relative-caret-position="498">
+                  <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -175,7 +142,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baibang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
@@ -210,12 +177,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542590232578</updated>
-      <workItem from="1542590233811" duration="18800000" />
+      <workItem from="1542590233811" duration="18983000" />
     </task>
+    <task id="LOCAL-00001" summary="页面">
+      <created>1542620805988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542620805988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18800000" />
+    <option name="totallyTimeSpent" value="18983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -245,6 +220,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="页面" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/doctor/changeData.html">
@@ -385,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doctor/difficultDiseaseDetail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="238">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -396,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doctor/css/difficultDiseaseDetail.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="498">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>
