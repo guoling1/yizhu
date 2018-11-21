@@ -6,13 +6,14 @@
     width: 100%;
     text-align: center;
     color: #333;
-    z-index: 1;
+    z-index: 1111;
     border-bottom: 1px solid #e5e5e5;
 }
 
 .header.header_blue{
     background: #4e87ff;
     color: #fff;
+    border: none;
 }
 .header.header_black{
     background: #353439;
@@ -43,6 +44,11 @@
     width: 1rem;
     height: 100%;
     text-align: right;
+}
+.header .right img{
+    width: 0.31rem;
+    height: 0.31rem;
+    vertical-align: middle;
 }
 .header_blue .right img{
     vertical-align: middle;
@@ -78,6 +84,9 @@
     margin-top: -0.05rem;
     font-size: 0.24rem;
     color: #a7adb3;
+}
+.footer .active p{
+    color: #2a8cff;
 }
 .container{
     padding: 0.88rem 0 0.98rem;

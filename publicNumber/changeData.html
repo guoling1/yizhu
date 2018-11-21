@@ -1,0 +1,66 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>医嘱</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/changeData.css">
+</head>
+<body>
+<div class="header header_write">
+    <div class="left" onclick="history.back(-1)">
+        <img src="images/back_black.png" alt="">
+        返回
+    </div>
+    <div class="title">修改资料</div>
+    <div class="right"></div>
+</div>
+<div class="container">
+    <form>
+        <div class="avatar">
+            <label for="avatar">头像</label>
+            <div class="fr">
+                <img src="images/avatar.png" alt="">
+            </div>
+        </div>
+        <div>
+            <label for="nickName">昵称</label>
+            <input type="text" id="nickName" class="fr" placeholder="请输入昵称">
+        </div>
+        <div>
+            <label for="sex">性别</label>
+            <img src="images/right.png" alt="" class="fr">
+            <select class="fr">
+                <option value ="">请选择性别</option>
+                <option value ="man">男</option>
+                <option value="woman">女</option>
+            </select>
+        </div>
+        <div>
+            <label for="idCard">身份证号</label>
+            <input type="text" id="idCard" class="fr" placeholder="输入身份证号">
+        </div>
+        <div>
+            <label for="city">所在城市</label>
+            <img src="images/right.png" alt="" class="fr">
+            <select class="fr">
+                <option value ="">请选择所在城市</option>
+                <option value ="1">1</option>
+                <option value="2">2</option>
+            </select>
+        </div>
+        <div>
+            <label for="address">就诊地址</label>
+            <input type="text" id="address" class="fr" placeholder="输入就诊地址">
+        </div>
+    </form>
+    <div class="submit">确认</div>
+</div>
+
+<script src="js/rem.js"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+</body>
+</html>

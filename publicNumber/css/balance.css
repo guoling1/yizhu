@@ -1,0 +1,90 @@
+.top {
+    padding-top: 0.58rem;
+    background: url("../images/index_bg.png") no-repeat;
+    background-size: 100% auto;
+}
+.top .personal_order{
+    margin: 0 auto;
+    padding: 0.45rem 0;
+    width: 93%;
+    background: #fff;
+    border-radius: 0.25rem;
+    text-align: center;
+    color: #a6b0ca;
+    box-shadow: 0 10px 25px #b6ccfa87;
+}
+.top .personal_order .classify{
+    display: flex;
+    justify-content: space-around;
+}
+.top .personal_order .classify div{
+    width: 40%;
+}
+
+.top .personal_order .money{
+    margin-bottom: 0.5rem;
+    color: #444;
+    font-size: 0.44rem;
+    font-weight: bold;
+}
+.top .personal_order a{
+    display: inline-block;
+    width: 4.43rem;
+    height: 0.76rem;
+    line-height: 0.75rem;
+    border: 1px solid #4e87ff;
+    border-radius: 0.38rem;
+    color: #4e87ff;
+    font-size: 0.32rem;
+}
+.tab{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    height: 0.98rem;
+    line-height: 0.98rem;
+    font-size: 0.28rem;
+    color: #999;
+    background: #f3f3f3;
+    margin-top: 0.53rem;
+}
+.tab .active{
+    color: #2a8cff;
+    font-weight: bold;
+}
+
+ul{
+    padding: 0 0.25rem;
+}
+ul li{
+    padding: 0.23rem 0;
+    border-bottom: 1px solid #e7e7e7;
+    color: #999;
+}
+ul li .ul_top,ul li .ul_left p:first-child{
+    font-size: 0.28rem;
+    font-weight: bold;
+    color: #000000;
+}
+ul li .ul_bottom .review{
+    font-weight: bold;
+    color: #ea5d5c;
+}
+ul li .ul_bottom .make_money{
+    font-weight: bold;
+    color: #000;
+}
+ul li .ul_bottom .finish{
+    font-weight: bold;
+    color: #2a8cff;
+}
+ul li .ul_right{
+    margin-top: 0.15rem;
+    font-size: 0.28rem;
+    color: #ff2929;
+    font-weight: bold;
+}
+ul.income{
+    display: none;
+}
+

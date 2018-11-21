@@ -1,0 +1,54 @@
+.swiper-container{
+    margin-top: 0.2rem;
+    margin-bottom: 0.1rem;
+    text-align: center;
+    height: 3.6rem;
+}
+.swiper-container img{
+    width: 94%;
+}
+ul{
+    padding: 0 0.3rem;
+}
+ul li{
+
+    /*height: 1.52rem;*/
+}
+ul li .number{
+    float: left;
+    margin-top: 0.64rem;
+    font-size: 0.32rem;
+    font-weight: bold;
+    color: #999;
+}
+ul li .content{
+    padding: 0.3rem 0;
+    margin-left: 0.55rem;
+    border-bottom: 1px solid #e7e7e7;
+}
+ul li .content .title{
+    margin: 0 0 0.15rem;
+    font-size: 0.32rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+ul li .content .detail{
+    color: #999;
+}
+ul li .content .detail span{
+    display: inline-block;
+    width: 1rem;
+}
+ul li .content .detail .time{
+    width: 1.2rem;
+}
+ul li .content .detail .price{
+    color: #fd5f60;
+}
+ul li .content .detail img{
+    margin-right: 0.03rem;
+    width: 0.24rem;
+    height: 0.24rem;
+    vertical-align: middle;
+}
