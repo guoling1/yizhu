@@ -7,6 +7,14 @@
 .swiper-container img{
     width: 94%;
 }
+.swiper-pagination-bullet{
+    background: #999;
+    opacity: 0.8;
+}
+.swiper-pagination-bullet-active{
+    background: #2a8cff;
+    opacity: 1;
+}
 ul{
     padding: 0 0.3rem;
 }

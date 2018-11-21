@@ -40,7 +40,10 @@
     text-align: center;
 }
 .people{
-    margin-bottom: 0.2rem;
+    margin: 0 auto 0.2rem;
+    width: 92%;
+    border-radius: 0.3rem;
+    box-shadow: 0 5px 20px #b6ccfa5e;
 }
 .people ul{
     display: flex;
@@ -88,6 +91,6 @@
     height: 3rem;
 }
 .detail .content{
-    line-height: 0.4rem;
+    line-height: 0.5rem;
     margin-top: 0.2rem;
 }

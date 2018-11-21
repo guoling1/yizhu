@@ -1,20 +1,31 @@
 .swiper-container{
-    height: 3.55rem;
-    /*background: #ffdd03;*/
+    height: 3.9rem;
 }
 .swiper-container img{
     width: 100%;
 }
+.swiper-container-horizontal>.swiper-pagination-bullets{
+    bottom: 20px;
+}
+.swiper-pagination-bullet{
+    background: #999;
+    opacity: 0.8;
+}
+.swiper-pagination-bullet-active{
+    background: #2a8cff;
+    opacity: 1;
+}
 .search{
     position: relative;
     margin: -0.4rem auto 0;
-    width: 95%;
+    width: 85%;
     height: 0.8rem;
     line-height: 0.8rem;
     font-size: 0.32rem;
     background: #fff;
     border-radius: 0.09rem;
     z-index: 231;
+    box-shadow: 0 4px 8px #b6ccfa5e;
 }
 .search img{
     margin: 0 0.12rem 0 .63rem;
@@ -55,9 +66,11 @@
 
 }
 .doctor li{
-    margin-bottom: 0.3rem;
+    margin: 0 auto 0.3rem;
     padding: 0.3rem 0;
+    width: 92%;
     border-radius: 0.22rem;
+    box-shadow: 0 5px 20px #b6ccfa5e;
 }
 
 .doctor li .avatar{
