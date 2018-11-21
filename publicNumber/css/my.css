@@ -1,56 +1,25 @@
 .top {
+    padding-top: 0.3rem;
     background: url("../images/index_bg.png") no-repeat;
     background-size: 100% auto;
+    text-align: center;
 }
-
-.top .personal_data {
-    padding-top: 0.34rem;
-    height: 2rem;
-    color: #fff;
-}
-
-.top .personal_data .left {
-    float: left;
+.top .avatar{
     position: relative;
-    margin: 0 0.4rem 0 0.25rem;
+    margin:0 auto;
+    width: 1.62rem;
+    height: 1.62rem;
 }
-
-.top .personal_data .left img {
-    width: 1.4rem;
-    height: 1.4rem;
-}
-
-.top .personal_data .left .sex {
+.top .avatar .level{
     position: absolute;
-    bottom: 0.2rem;
+    bottom: 0;
     right: 0;
-    display: inline-block;
-    width: 0.4rem;
-    height: 0.4rem;
-    background: #fff;
-    border-radius: 50%;
+    width: 0.39rem;
+    height: 0.48rem;
 }
-
-.top .personal_data .left .sex i {
-    width: 100%;
-    height: 100%;
-    display: inline-block;
-}
-
-.top .personal_data .left .man {
-    background: url("../images/man.png") no-repeat center center;
-    background-size: 0.24rem 0.24rem;
-}
-
-.top .personal_data .left .woman {
-    background: url("../images/woman.png") no-repeat center center;
-    background-size: 0.19rem 0.24rem;
-}
-
-.top .personal_data .right .name {
-    margin: 0.2rem 0 0.08rem;;
+.top .name{
     font-size: 0.37rem;
-    font-weight: bold;
+    color: #fff;
 }
 
 .top .personal_order {
@@ -62,12 +31,13 @@
     background: #fff;
     border-radius: 0.25rem;
     text-align: center;
-    color: #a6b0ca;
+
     font-weight: bold;
     box-shadow: 0 10px 25px #b6ccfa87;
 }
 .top .personal_order a{
     color: #a6b0ca;
+    width: 40%;
 }
 .top .personal_order .number {
     color: #4e87ff;

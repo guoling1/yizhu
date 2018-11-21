@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>医嘱</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/pay.css">
+</head>
+<body>
+<div class="header">
+    <div class="left" onclick="history.back(-1)">
+        <img src="images/back_black.png" alt="">
+        <span>返回</span>
+    </div>
+    <div class="title">支付订单</div>
+    <div class="right">
+        <i class="msg_sign"></i>
+        <img src="images/message.png" alt="">
+    </div>
+</div>
+<div class="container">
+    <div class="payPrice">
+        <span>订单金额</span>
+        <span class="price">￥260.00</span>
+    </div>
+    <p class="type_title">支付方式</p>
+    <ul>
+        <li>
+            <div class="middle">
+                <p class="balance" id="balance">账户余额 <s class="number">(￥1688)</s></p>
+            </div>
+            <span><i class=""></i></span>
+        </li>
+        <li>
+            <img src="images/wx.png" alt="">
+            <div class="middle">
+                <p class="title">提现到微信</p>
+                <p>亿万用户的选择，更快更安全</p>
+            </div>
+            <span><i class="select"></i></span>
+        </li>
+    </ul>
+    <div class="button">确认购买</div>
+</div>
+
+<script src="js/rem.js"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/pay.js"></script>
+</body>
+</html>

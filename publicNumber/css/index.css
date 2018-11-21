@@ -1,0 +1,147 @@
+.swiper-container{
+    height: 3.55rem;
+    /*background: #ffdd03;*/
+}
+.swiper-container img{
+    width: 100%;
+}
+.search{
+    position: relative;
+    margin: -0.4rem auto 0;
+    width: 95%;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    font-size: 0.32rem;
+    background: #fff;
+    border-radius: 0.09rem;
+    z-index: 231;
+}
+.search img{
+    margin: 0 0.12rem 0 .63rem;
+    width: 0.32rem;
+    height: 0.32rem;
+    vertical-align: middle;
+}
+.search input{
+    width: 5.2rem;
+    height: 100%;
+}
+.classify{
+    padding-top: 0.4rem;
+    text-align: center;
+    border-bottom: 0.2rem solid #f5f5f7;
+}
+.classify li img{
+    width: 1rem;
+    height: 1rem;
+}
+.classify li{
+    margin-bottom: 0.4rem;
+    width: 24%;
+    display: inline-block;
+}
+.title{
+    padding: 0 0.3rem;
+    height: 1rem;
+    line-height: 1rem;
+
+}
+.title span:first-child{
+    font-size: 0.3rem;
+    font-weight: bold;
+}
+
+.doctor{
+
+}
+.doctor li{
+    margin-bottom: 0.3rem;
+    padding: 0.3rem 0;
+    border-radius: 0.22rem;
+}
+
+.doctor li .avatar{
+    float: left;
+    position: relative;
+    margin: 0 0.2rem 0 0.3rem;
+}
+
+.doctor li .avatar img {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+
+.doctor li .avatar .sex {
+    position: absolute;
+    bottom: 0.2rem;
+    right: 0;
+    display: inline-block;
+    width: 0.4rem;
+    height: 0.4rem;
+    background: #fff;
+    border-radius: 50%;
+}
+
+.doctor li .avatar .sex i {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+.doctor li .avatar .man {
+    background: url("../images/man.png") no-repeat center center;
+    background-size: 0.24rem 0.24rem;
+}
+
+.doctor li .avatar .woman {
+    background: url("../images/woman.png") no-repeat center center;
+    background-size: 0.19rem 0.24rem;
+}
+.doctor li .right .doctor_data .follow{
+    margin-right: 0.25rem;
+    width: 1.32rem;
+    height: 0.47rem;
+    line-height: 0.47rem;
+    border-radius: 0.24rem;
+    border: 1px solid #2a8cff;
+    font-size: 0.26rem;
+    color: #2a8cff;
+    text-align: center;
+}
+.doctor li .right .doctor_data .name{
+    font-size: 0.32rem;
+    font-weight: bold;
+}
+.doctor li .right .doctor_data .doctor_classify{
+    color: #fff;
+    border-radius: 0.2rem;
+    padding: 0 0.1rem;
+    line-height: 0.4rem;
+    display: inline-block;
+    vertical-align: top;
+}
+.pink{
+    background: #f17ffb;
+}
+.orange{
+    background: #fbcb7f;
+}
+.doctor li .right .doctor_data .address{
+    margin: 0.05rem 0 0.1rem;
+    color: #999;
+}
+.doctor li .right .voice .voice_left{
+    float: left;
+    margin-top: 0.08rem;
+    width: 0.3rem;
+    height: 0.3rem;
+}
+.doctor li .right .voice .voice_right{
+    margin-left: 2.4rem;
+    color: #000;
+    line-height: 0.4rem;
+}
+.doctor li .bottom{
+    margin-left: 2.6rem;
+    color: #2a8cff;
+}

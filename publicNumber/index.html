@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>医嘱</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/swiper-4.3.3.min.css">
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<div class="header">
+    <div class="left" onclick="history.back(-1)">
+        <img src="images/back_black.png" alt="">
+        <span>返回</span>
+    </div>
+    <div class="title">邯郸第一医院</div>
+    <div class="right"></div>
+</div>
+<div class="container">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/banner.png" alt=""></div>
+            <div class="swiper-slide"><img src="images/banner.png" alt=""></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <div class="search">
+        <img src="images/search.png" alt="">
+        <input type="text" placeholder="搜索课程、医生、专题">
+    </div>
+    <ul class="classify">
+        <li>
+            <img src="images/classify1.png" alt="">
+            <p>儿科</p>
+        </li>
+        <li>
+            <img src="images/classify2.png" alt="">
+            <p>妇科</p>
+        </li>
+        <li>
+            <img src="images/classify3.png" alt="">
+            <p>中医科</p>
+        </li>
+        <li>
+            <img src="images/classify4.png" alt="">
+            <p>肿瘤科</p>
+        </li>
+        <li>
+            <img src="images/classify5.png" alt="">
+            <p>心血管科</p>
+        </li>
+        <li>
+            <img src=" images/classify6.png" alt="">
+            <p>呼吸内科</p>
+        </li>
+        <li>
+            <img src="images/classify7.png" alt="">
+            <p>消化内科</p>
+        </li>
+        <li>
+            <img src="images/classify8.png" alt="">
+            <p>全部科室</p>
+        </li>
+    </ul>
+    <div class="title">
+        <span>推荐医生</span>
+        <span class="fr">More</span>
+    </div>
+    <ul class="doctor">
+        <li>
+            <div class="avatar">
+                <img src="images/avatar.png" alt="">
+                <span class="sex">
+                    <i class="man"></i>
+                </span>
+            </div>
+            <div class="right">
+                <div class="doctor_data">
+                    <div class="follow fr">关注</div>
+                    <span class="name">乔小</span>
+                    <span class="doctor_classify pink">内分泌科</span>
+                    <p class="address">临汾市人民医院</p>
+                </div>
+                <div class="voice">
+                    <div class="voice_left"><img src="images/speak_blue.png" alt=""></div>
+                    <div class="voice_right">
+                        <p>1.单纯控制血糖就可以杜绝并发症那？</p>
+                        <p>2.单纯控制血糖就可以杜绝并发症那？</p>
+                        <p>3.单纯控制血糖就可以杜绝并发症那？</p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="bottom">1188人收听</div>
+        </li>
+        <li>
+            <div class="avatar">
+                <img src="images/avatar.png" alt="">
+                <span class="sex">
+                    <i class="woman"></i>
+                </span>
+            </div>
+            <div class="right">
+                <div class="doctor_data">
+                    <div class="follow fr">关注</div>
+                    <span class="name">乔小</span>
+                    <span class="doctor_classify orange">营养科</span>
+                    <p class="address">临汾市人民医院</p>
+                </div>
+                <div class="voice">
+                    <div class="voice_left"><img src="images/speak_blue.png" alt=""></div>
+                    <div class="voice_right">
+                        <p>1.单纯控制血糖就可以杜绝并发症那？</p>
+                        <p>2.单纯控制血糖就可以杜绝并发症那？</p>
+                        <p>3.单纯控制血糖就可以杜绝并发症那？</p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="bottom">1188人收听</div>
+        </li>
+    </ul>
+</div>
+<div class="footer">
+    <div class="left active">
+        <img src="images/home1.png" alt="">
+        <p>主页</p>
+    </div>
+    <div class="middle">
+        <img src="images/course.png" alt="">
+        <p>课程</p>
+    </div>
+    <div class="right">
+        <img src="images/my.png" alt="">
+        <p>我的</p>
+    </div>
+</div>
+
+<script src="js/rem.js"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/swiper-4.3.3.min.js"></script>
+<script>
+    var mySwiper = new Swiper('.swiper-container', {
+        loop: true,
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: '.swiper-pagination',
+        }
+    })
+</script>
+</body>
+</html>
