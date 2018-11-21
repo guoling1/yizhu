@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/departments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/hospital.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/departments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/hospital.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicNumber/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/publicNumber/a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicNumber/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/publicNumber/css/public.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,17 +19,26 @@
       <file leaf-file-name="departments.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publicNumber/departments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="380">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="departments.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="departments.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publicNumber/css/departments.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="266">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hospital.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/publicNumber/hospital.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -96,10 +99,10 @@
         <option value="$PROJECT_DIR$/doctor/css/record.css" />
         <option value="$PROJECT_DIR$/publicNumber/a.html" />
         <option value="$PROJECT_DIR$/publicNumber/css/public.css" />
-        <option value="$PROJECT_DIR$/publicNumber/hospital.html" />
         <option value="$PROJECT_DIR$/publicNumber/css/hospital.css" />
-        <option value="$PROJECT_DIR$/publicNumber/departments.html" />
         <option value="$PROJECT_DIR$/publicNumber/css/departments.css" />
+        <option value="$PROJECT_DIR$/publicNumber/departments.html" />
+        <option value="$PROJECT_DIR$/publicNumber/hospital.html" />
       </list>
     </option>
   </component>
@@ -218,17 +221,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542718298097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/guoling1/yizhu&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1542725101487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542725101487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57084000" />
+    <option name="totallyTimeSpent" value="57303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="530" y="10" width="780" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2016129" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2016129" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.44489247" side_tool="true" weight="0.32952926" />
@@ -616,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publicNumber/hospital.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/publicNumber/css/public.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -639,15 +642,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publicNumber/departments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="380">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publicNumber/css/departments.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publicNumber/hospital.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
