@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/doctor/css/article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/edit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/fans.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/messageDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/patient.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/patientSearch.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/patientUpload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/css/record.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/fans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/article.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/avatar_square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/close1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/content_img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/edit_board.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/edit_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/look.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/more.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/more_fn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/more_vertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/number_add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/number_minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/patient_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/record_start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/record_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/release.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/speak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/voice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/images/wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/js/record.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/messageDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/patient.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/patientSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/patientUpload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/record.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/js/rem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/balance.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/balance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/css/balance.css" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/css/balance.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/css/public.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/js/balance.js" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/js/balance.js" afterDir="false" />
-    </list>
+    <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -104,8 +52,8 @@
           <file leaf-file-name="public.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/publicNumber/css/public.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
-                  <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+                <state relative-caret-position="420">
+                  <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -127,7 +75,7 @@
           <file leaf-file-name="record.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/doctor/js/record.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="680">
+                <state relative-caret-position="419">
                   <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
                 </state>
               </provider>
@@ -307,20 +255,28 @@
       <workItem from="1542590233811" duration="18800000" />
       <workItem from="1542626146237" duration="7135000" />
     </task>
+    <task id="LOCAL-00001" summary="页面">
+      <created>1542705521226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542705521226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48295000" />
+    <option name="totallyTimeSpent" value="48959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -352,9 +308,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="页面" />
     <MESSAGE value="Merge branch 'master' of https://github.com/guoling1/yizhu&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/guoling1/yizhu&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="页面" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/doctor/css/difficultDiseaseDetail.css">
@@ -709,7 +665,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doctor/js/record.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="419">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
@@ -734,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publicNumber/css/public.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="420">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
