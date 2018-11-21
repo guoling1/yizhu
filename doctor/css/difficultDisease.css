@@ -20,6 +20,9 @@ ul li{
     padding: 0.3rem 0.3rem 0;
     border-bottom: 0.2rem solid #f6f6f6;
 }
+ul li:last-child{
+    border: none;
+}
 ul li .top{
     font-size: 0.26rem;
     color: #666;

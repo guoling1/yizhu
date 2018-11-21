@@ -30,6 +30,7 @@
     bottom: 0;
     width: 7.1rem;
     padding: 0.15rem 0.2rem;
+    box-shadow: 0 -3px 1px #f3f2f26b;
 }
 .bottom img{
     vertical-align: middle;

@@ -3,6 +3,7 @@ input{
     height: 0.55rem;
     line-height: 0.55rem;
     width: 90%;
+    border-bottom: 1px solid #eaeaea;
 }
 .search{
     margin: 3rem 0.3rem 0;
