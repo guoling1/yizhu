@@ -11,6 +11,18 @@ body{
     width: 0.4rem;
     height: 0.1rem;
 }
+.container .tips{
+    margin-top: 0;
+    text-align: center;
+    line-height: 0.7rem;
+    color: #fff;
+    background: #ea5d5c;
+}
+.tips img{
+    width: 0.24rem;
+    height: 0.24rem;
+    vertical-align: middle;
+}
 .avatar{
     width: 0.78rem;
     height: 0.78rem;

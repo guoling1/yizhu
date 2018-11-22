@@ -6,25 +6,52 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/swiper-4.3.3.min.css">
     <link rel="stylesheet" href="css/public.css">
-    <link rel="stylesheet" href="css/course.css">
+    <link rel="stylesheet" href="css/courseList.css">
 </head>
 <body>
-<div class="header header_write">
+<div class="header header_blue" >
     <div class="left" onclick="history.back(-1)">
-        <img src="images/back_black.png" alt="">
+        <img src="images/back.png" alt="">
+        <span>返回</span>
     </div>
     <div class="title">课程</div>
-    <div class="right"></div>
+    <div class="right">
+        <img src="images/share.png" alt="">
+    </div>
 </div>
 <div class="container">
-    <div class="swiper-container">
-        <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="images/banner1.png" alt=""></div>
-            <div class="swiper-slide"><img src="images/banner1.png" alt=""></div>
+    <div class="base_data">
+        <div class="data">
+            <div class="avatar">
+                <img src="images/avatar.png" alt="">
+                <span class="sex">
+                    <i class="man"></i>
+                </span>
+            </div>
+            <div class="right">
+                <p class="follow">关注</p>
+                <div>
+                    <span class="name">乔小</span>
+                    <span class="level">内分泌科</span>
+                </div>
+                <p class="address">河北省邯郸第一医院</p>
+                <div class="number">
+                    <img src="images/speak_blue.png" alt="">
+                    <span>1188人收听 | 1902人赞</span>
+                </div>
+            </div>
         </div>
-        <div class="swiper-pagination"></div>
+    </div>
+    <div class="tab">
+        <div class="active">
+            <p>课程</p>
+            <i></i>
+        </div>
+        <div>
+            <p>讲师信息</p>
+            <i></i>
+        </div>
     </div>
     <ul>
         <li>
@@ -37,6 +64,9 @@
                     <span class="num"><img src="images/audio.png" alt="">200</span>
                     <span class="time"><img src="images/time.png" alt="">11:10</span>
                 </div>
+                <div class="right fr">
+                    <img src="images/share1.png" alt="">
+                </div>
             </div>
         </li>
         <li>
@@ -49,45 +79,29 @@
                     <span class="num"><img src="images/audio.png" alt="">200</span>
                     <span class="time"><img src="images/time.png" alt="">11:10</span>
                 </div>
+                <div class="right fr">
+                    <img src="images/share1.png" alt="">
+                </div>
             </div>
         </li>
     </ul>
-    <div class="footer">
-        <div class="left">
-            <a href="index.html">
-                <img src="images/home.png" alt="">
-                <p>主页</p>
-            </a>
-        </div>
-        <div class="middle active">
-            <a href="course.html">
-                <img src="images/course1.png" alt="">
-                <p>课程</p>
-            </a>
-        </div>
-        <div class="right">
-            <a href="my.html">
-                <img src="images/my.png" alt="">
-                <p>我的</p>
-            </a>
-        </div>
+</div>
+<div class="footer">
+    <div class="left active">
+        <img src="images/home1.png" alt="">
+        <p>主页</p>
+    </div>
+    <div class="middle">
+        <img src="images/course.png" alt="">
+        <p>课程</p>
+    </div>
+    <div class="right">
+        <img src="images/my.png" alt="">
+        <p>我的</p>
     </div>
 </div>
 
 <script src="js/rem.js"></script>
 <script src="js/jquery-3.3.1.min.js"></script>
-<script src="js/swiper-4.3.3.min.js"></script>
-<script>
-    var mySwiper = new Swiper('.swiper-container', {
-        loop: true,
-        autoplay: {
-            delay: 2500,
-            disableOnInteraction: false,
-        },
-        pagination: {
-            el: '.swiper-pagination',
-        }
-    })
-</script>
 </body>
 </html>
