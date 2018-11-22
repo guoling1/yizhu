@@ -1,0 +1,89 @@
+.calendar{
+    font-weight: bold;
+}
+.calendar .year_mouth{
+    font-size: 0.28rem;
+    color: #000;
+    font-weight: bold;
+    line-height: 0.94rem;
+    text-align: center;
+}
+.calendar .weekdays {
+    margin: 0;
+    padding-bottom: 0.2rem;
+}
+
+.calendar .weekdays li {
+    display: inline-block;
+    width: 13.21%;
+    text-align: center;
+}
+
+.calendar .days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+}
+
+.calendar .days li {
+    position: relative;
+    list-style-type: none;
+    display: inline-block;
+    width: 13.21%;
+    height: 0.58rem;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size:0.3rem;
+}
+
+.calendar .days li .active {
+    display: inline-block;
+    width: 0.58rem;
+    height: 0.58rem;
+    line-height: 0.58rem;
+    border: 1px solid #fd5f60;
+    border-radius: 50%;
+}
+.calendar .days li i{
+    position: absolute;
+    top: 0.16rem;
+    right: 0.2rem;
+    width: 0.09rem;
+    height: 0.09rem;
+    background: #fd5f60;
+    border-radius: 50%;
+}
+.diary .title,
+.diary ul li{
+    display: flex;
+    text-align: center;
+}
+.diary .title{
+    line-height: 0.8rem;
+    font-size: 0.28rem;
+    font-weight: bold;
+}
+.fx1{
+    flex: 1;
+}
+.fx2{
+    flex: 2;
+}
+.fx4{
+    flex: 4;
+}
+.diary ul li{
+    padding: 0.2rem 0;
+    font-size: 0.24rem;
+    font-weight: bold;
+}
+.diary ul li .fx4{
+    text-align: left;
+}
+
+.img_group img{
+    margin-top: 0.6rem;
+    margin-right: 0.3rem;
+    width: 0.96rem;
+    height: 0.96rem;
+}

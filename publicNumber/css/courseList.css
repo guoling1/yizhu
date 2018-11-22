@@ -3,6 +3,7 @@
 }
 .container{
     padding: 0;
+    padding-bottom: 0.88rem;
 }
 .base_data{
     border-bottom: 0.2rem solid #f6f6f6;
@@ -105,7 +106,7 @@
     line-height: 0.74rem;
     font-size: 0.28rem;
     color: #666666;
-    border: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
     text-align: center;
 }
 .tab .active{
@@ -174,4 +175,76 @@ ul li .right{
     width: 0.31rem;
     height: 0.31rem;
     margin-top: -0.3rem;
+}
+.people_data{
+    padding: 0.3rem;
+    line-height: 0.5rem;
+}
+.fix_bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.88rem;
+    line-height: 0.88rem;
+    background: #2a8cff;
+    color: #fff;
+    font-size: 0.28rem;
+    text-align: center;
+}
+/*确认购买遮罩层*/
+
+.upload_mask{
+    display: none;
+    z-index: 1111;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.3);
+    text-align: center;
+}
+.upload_mask .content{
+    padding: 0.35rem 0;
+    margin: 40% auto 0;
+    width: 5.76rem;
+    background: #fff;
+    border-radius: 0.23rem;
+}
+.upload_mask .close{
+    margin-right: 0.35rem;
+    width: 0.28rem;
+    height: 0.28rem;
+}
+.upload_mask .title{
+    padding-top: 0.4rem;
+    color: #666;
+    font-size: 0.32rem;
+    font-weight: bold;
+}
+
+.upload_mask .submit{
+    margin: 0.4rem auto 0;
+    width: 2.4rem;
+    height: 0.7rem;
+    line-height: 0.7rem;
+    background: #ea5d5c;
+    color: #fff;
+    border-radius: 0.2rem;
+}
+.upload_mask .submit a{
+    color: #fff;
+}
+
+.upload_mask .course_data{
+    color: #999;
+}
+.upload_mask .course_data img{
+    margin-top: 0.25rem;
+    width: 2.46rem;
+    height: auto;
+}
+.upload_mask .course_data .price{
+    font-size: 0.28rem;
+    color: #000;
 }
