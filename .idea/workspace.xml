@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/publicNumber/balance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/changeData.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/balance.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/changeData.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/course.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/departmentDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/messageDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/my.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/patient.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/pay.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/css/swiper-4.3.3.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/departmentDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/js/balance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/js/patient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/js/pay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/js/swiper-4.3.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/messageDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/my.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/patient.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publicNumber/pay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/images/woman.png" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/images/woman.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicNumber/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/publicNumber/a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicNumber/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/publicNumber/css/public.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicNumber/departments.html" beforeDir="false" afterPath="$PROJECT_DIR$/publicNumber/departments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicNumber/hospital.html" beforeDir="false" afterPath="$PROJECT_DIR$/publicNumber/hospital.html" afterDir="false" />
-    </list>
+    <list default="true" id="9f23a4dc-d649-438e-9987-79a1bde4911b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -54,7 +20,7 @@
             <entry file="file://$PROJECT_DIR$/publicNumber/js/patient.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="300">
-                  <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+                  <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -63,7 +29,7 @@
             <entry file="file://$PROJECT_DIR$/publicNumber/js/pay.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="60">
-                  <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+                  <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -86,7 +52,7 @@
             <entry file="file://$PROJECT_DIR$/doctor/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="220">
-                  <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+                  <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -123,7 +89,7 @@
             <entry file="file://$PROJECT_DIR$/publicNumber/css/patient.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="738">
-                  <caret line="164" column="1" lean-forward="true" selection-start-line="71" selection-end-line="164" selection-end-column="1" />
+                  <caret line="164" column="1" selection-start-line="71" selection-end-line="164" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -240,19 +206,7 @@
             <path>
               <item name="yizhu" type="b2602c69:ProjectViewProjectNode" />
               <item name="yizhu" type="462c0819:PsiDirectoryNode" />
-              <item name="doctor" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yizhu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yizhu" type="462c0819:PsiDirectoryNode" />
               <item name="publicNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yizhu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yizhu" type="462c0819:PsiDirectoryNode" />
-              <item name="publicNumber" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yizhu" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +222,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../发布杯赛信息" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
@@ -317,11 +271,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542705521226</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="页面">
+      <created>1542792474580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542792474580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71283000" />
+    <option name="totallyTimeSpent" value="71912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -701,7 +662,7 @@
     <entry file="file://$PROJECT_DIR$/publicNumber/css/patient.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
-          <caret line="164" column="1" lean-forward="true" selection-start-line="71" selection-end-line="164" selection-end-column="1" />
+          <caret line="164" column="1" selection-start-line="71" selection-end-line="164" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -721,14 +682,14 @@
     <entry file="file://$PROJECT_DIR$/publicNumber/js/pay.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publicNumber/js/patient.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -754,7 +715,7 @@
     <entry file="file://$PROJECT_DIR$/doctor/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
