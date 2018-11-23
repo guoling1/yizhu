@@ -1,0 +1,44 @@
+.container .title{
+    padding-top: 0.28rem;
+    font-size: 0.42rem;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+    line-height: 1.1rem;
+}
+.content{
+    padding: 0.2rem;
+    font-size: 0.28rem;
+    line-height: 0.55rem;
+}
+.bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.98rem;
+    color: #fff;
+    background: rgba(33,33,33,0.4);
+}
+.bottom div{
+    display: inline-block;
+}
+.bottom .left{
+    margin-top: 0.08rem;
+    margin-left: 0.5rem;
+    width: 0.82rem;
+    height: 0.82rem;
+    vertical-align: top;
+}
+.bottom .right{
+    float: right;
+    margin-top: 0.11rem;
+    margin-right: 0.3rem;
+    width: 0.75rem;
+    height: 0.75rem;
+}
+.bottom .middle .name{
+    font-size: 0.26rem;
+}
+.bottom .middle{
+    margin-top: 0.1rem;
+}

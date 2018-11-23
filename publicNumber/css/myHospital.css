@@ -1,0 +1,44 @@
+.base_data {
+    margin-bottom: 0.08rem;
+    padding-top: 3.4rem;
+    background: url("../images/bg.png") no-repeat;
+    background-size: 100% auto;
+}
+
+.base_data .data{
+    margin: 0 auto;
+    padding: 0.3rem;
+    width: 85%;
+    border-radius: 0.3rem;
+    background: #fff;
+    color: #999;
+}
+.base_data .data .name{
+    font-size: 0.32rem;
+    color: #000;
+    font-weight: bold;
+}
+.base_data .data .level{
+    display: inline-block;
+    margin: 0.15rem 0;
+    padding: 0 0.2rem;
+    color: #fff;
+    background: #2a8cff;
+    border-radius: 0.2rem;
+}
+.base_data .data .follow{
+    float: right;
+    margin-top: 0.2rem;
+    width: 1.32rem;
+    height: 0.47rem;
+    line-height: 0.47rem;
+    font-size: 0.26rem;
+    color: #2a8cff;
+    border: 1px solid #2a8cff;
+    border-radius: 0.3rem;
+    text-align: center;
+}.content{
+    padding: 0.3rem;
+    border-top: 0.2rem solid #f4f4f7;
+    line-height: 0.5rem;
+}

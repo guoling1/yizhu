@@ -1,0 +1,119 @@
+.base_data{
+    border-bottom: 0.2rem solid #f6f6f6;
+    padding-bottom: 0.45rem;
+    padding-top: 1.95rem;
+    background: url("../images/course_bg.png") no-repeat;
+    background-size: 100% auto;
+}
+li{
+    margin-top: 0.3rem;
+}
+li .avatar{
+    float: left;
+    position: relative;
+    margin: 0 0.2rem 0 0;
+}
+
+li .avatar img {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+
+li .avatar .sex {
+    position: absolute;
+    bottom: 0.2rem;
+    right: 0;
+    display: inline-block;
+    width: 0.4rem;
+    height: 0.4rem;
+    background: #fff;
+    border-radius: 50%;
+}
+
+li .avatar .sex i {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+li .avatar .man {
+    background: url("../images/man.png") no-repeat center center;
+    background-size: 0.24rem 0.24rem;
+}
+
+li .avatar .woman {
+    background: url("../images/woman.png") no-repeat center center;
+    background-size: 0.19rem 0.24rem;
+}
+
+li{
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    background: #fff;
+    color: #999;
+    box-shadow: 0 5px 20px #b6ccfa5e;
+}
+li .name{
+    font-size: 0.32rem;
+    color: #000;
+    font-weight: bold;
+}
+li .level{
+    display: inline-block;
+    line-height: 0.4rem;
+    padding: 0 0.15rem;
+    color: #fff;
+    background: #f17ffb;
+    border-radius: 0.18rem;
+    vertical-align: text-bottom;
+}
+li .address{
+    font-size: 0.32rem;
+    color: #000;
+    font-weight: bold;
+    margin: 0.2rem 0;
+}
+li .number{
+    color: #2a8cff;
+}
+li .number img{
+    width: 0.3rem;
+    height: 0.3rem;
+    vertical-align: middle;
+}
+li .follow{
+    float: right;
+    margin-top: 0.2rem;
+    width: 1.32rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    font-size: 0.26rem;
+    color: #666;
+    background: #e0e0e0;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+.tab{
+    display: flex;
+    justify-content: space-around;
+    height: 0.74rem;
+    line-height: 0.74rem;
+    font-size: 0.28rem;
+    color: #666666;
+    border-bottom: 1px solid #e7e7e7;
+    text-align: center;
+}
+.tab .active{
+    color: #444c59;
+    font-weight: bold;
+}
+.tab .active i{
+    display: inline-block;
+    width: 0.28rem;
+    height: 0.04rem;
+    background: #2a8cff;
+    vertical-align: top;
+}
+ul{
+    padding: 0 0.3rem;
+}

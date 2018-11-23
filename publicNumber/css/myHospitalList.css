@@ -1,0 +1,33 @@
+.data{
+    margin: 0.3rem auto 0;
+    padding: 0.3rem;
+    width: 85%;
+    border-radius: 0.3rem;
+    background: #fff;
+    color: #999;
+}
+.data .name{
+    font-size: 0.32rem;
+    color: #000;
+    font-weight: bold;
+}
+.data .level{
+    display: inline-block;
+    margin: 0.15rem 0;
+    padding: 0 0.2rem;
+    color: #fff;
+    background: #2a8cff;
+    border-radius: 0.2rem;
+}
+.data .follow{
+    float: right;
+    margin-top: 0.2rem;
+    width: 1.32rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    font-size: 0.26rem;
+    color: #666;
+    background: #e0e0e0;
+    border-radius: 0.3rem;
+    text-align: center;
+}

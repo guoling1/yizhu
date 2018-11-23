@@ -1,0 +1,99 @@
+.recharge{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 0.3rem;
+}
+.recharge .item{
+    display: inline-block;
+    margin-top: 0.3rem;
+    width: 3.3rem;
+    min-width: 3.3rem;
+    max-width: 3.3rem;
+    height: 1.5rem;
+    background: #fff;
+    border: 1px solid #999;
+    border-radius: 0.25rem;
+    text-align: center;
+}
+.recharge .item .name{
+    margin-top: 0.36rem;
+    font-size: 0.32rem;
+}
+.recharge .item.active{
+    border-color: #2a8cff;
+    background: #2a8cff;
+    color: #fff;
+}
+.type_title{
+    margin: 0.4rem 0.3rem 0;
+    height: 0.7rem;
+    font-size: 0.28rem;
+    font-weight: bold;
+    color: #000;
+    border-bottom: 1px solid #eaeaea;
+}
+ul{
+    padding: 0 0.3rem;
+}
+ul li{
+    height: 1.22rem;
+    border-bottom: 1px solid #e5e5e5;
+}
+ul li img{
+    margin: 0 0.25rem 0 0;
+    width: 0.61rem;
+    height: 0.61rem;
+}
+
+ul li .middle{
+    display: inline-block;
+    margin-top: 0.18rem;
+    max-width: 3.6rem;
+}
+ul li .middle p{
+    font-size: 0.21rem;
+    color: #b3b3b3;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+ul li .middle .title{
+    padding-top: 0;
+    font-weight: normal;
+    color: #333;
+    font-size: 0.3rem;
+}
+ul li span{
+    float: right;
+    margin: 0.42rem 0.2rem 0 0;
+    width: 0.32rem;
+    height: 0.32rem;
+    line-height: 0.32rem;
+    border: 0.04rem solid #fd5f5f;
+    border-radius: 50%;
+    text-align: center;
+}
+ul li span i{
+    display: none;
+    /*display: inline-block;*/
+    width: 0.18rem;
+    height: 0.18rem;
+    background: #fd5f5f;
+    border-radius: 50%;
+}
+ul li span i.select{
+    display: inline-block;
+}
+.button{
+    margin: 4.5rem auto 0;
+    width: 6.9rem;
+    height: 0.98rem;
+    line-height: 0.98rem;
+    text-align: center;
+    color: #fff;
+    font-size: 0.32rem;
+    font-weight: bold;
+    background: #2a8cff;
+    border-radius: 0.07rem;
+}
