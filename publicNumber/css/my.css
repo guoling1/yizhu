@@ -60,7 +60,10 @@ ul li {
     height: 1rem;
     line-height: 1rem;
     font-size: 0.32rem;
-    border-bottom: 1px solid #f4f4f4;
+    border-bottom: 1px solid #e5e5e5;
+}
+ul li:last-child{
+    border: none;
 }
 
 ul li img {
@@ -73,7 +76,7 @@ ul li img {
 i {
     display: block;
     height: 0.2rem;
-    background: #f9f9f9;
+    background: #f6f6f6;
 }
 
 

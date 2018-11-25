@@ -61,30 +61,19 @@ ul li{
     border-bottom: 1px solid #e7e7e7;
     color: #999;
 }
-ul li .ul_top,ul li .ul_left p:first-child{
+ul li .ul_left{
+
+}
+ul li .ul_left .name{
     font-size: 0.28rem;
-    font-weight: bold;
-    color: #000000;
-}
-ul li .ul_bottom .review{
-    font-weight: bold;
-    color: #ea5d5c;
-}
-ul li .ul_bottom .make_money{
     font-weight: bold;
     color: #000;
 }
-ul li .ul_bottom .finish{
-    font-weight: bold;
-    color: #2a8cff;
-}
 ul li .ul_right{
-    margin-top: 0.15rem;
-    font-size: 0.28rem;
-    color: #ff2929;
     font-weight: bold;
+    font-size: 0.28rem;
+    line-height: 0.7rem;
 }
-ul.income{
-    display: none;
+ul li .ul_right .red {
+    color: #ff2929;
 }
-

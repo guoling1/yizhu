@@ -5,6 +5,7 @@
     border-radius: 0.3rem;
     background: #fff;
     color: #999;
+    box-shadow: 0 5px 20px #b6ccfa5e;
 }
 .data .name{
     font-size: 0.32rem;

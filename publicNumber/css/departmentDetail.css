@@ -4,7 +4,9 @@
     background: url("../images/bg.png") no-repeat;
     background-size: 100% auto;
 }
-
+.base_data .data{
+    box-shadow: 0 3px 20px #b6ccfa5e; */
+}
 .base_data .data,
 .people ul{
     margin: 0 auto;
