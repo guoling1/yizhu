@@ -1,0 +1,36 @@
+.container {
+    padding-top: 1.28rem;
+
+}
+
+.hospitalImg {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+
+.ad_img, .content {
+    margin-bottom: 0.2rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 2px 10px #b6ccfa5e;
+}
+
+.content {
+    padding: 0.25rem 0.3rem;
+    margin: 0.2rem 0.3rem;
+}
+
+.content .title {
+    margin-bottom: 0.1rem;
+    font-size: 0.28rem;
+    font-weight: bold;
+}
+
+.content .detail {
+    color: #2a8cff;
+    font-weight: bold;
+}
+
+.content .more {
+    color: #666;
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>医嘱</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/swiper-4.3.3.min.css">
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/hospital1.css">
+</head>
+<body>
+<div class="header">
+    <div class="left" onclick="history.back(-1)">
+        <img src="images/back_black.png" alt="">
+        <span>返回</span>
+    </div>
+    <div class="title">医院</div>
+    <div class="right"></div>
+</div>
+<div class="container">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/hospital_ad.png" alt="" class="hospitalImg"></div>
+            <div class="swiper-slide"><img src="images/hospital_ad.png" alt="" class="hospitalImg"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <div class="content">
+        <p class="title">单纯控制血糖就可以杜绝并发症了吗？</p>
+        <div class="bottom">
+            <span class="detail">乔小 | 内分泌科</span>
+            <span class="more fr">查看更多</span>
+        </div>
+    </div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/hospital_ad.png" alt="" class="hospitalImg"></div>
+            <div class="swiper-slide"><img src="images/hospital_ad.png" alt="" class="hospitalImg"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <div class="content">
+        <p class="title">单纯控制血糖就可以杜绝并发症了吗？</p>
+        <div class="bottom">
+            <span class="detail">乔小 |内分泌科</span>
+            <span class="more fr">查看更多</span>
+        </div>
+    </div>
+</div>
+
+
+<script src="js/rem.js"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/swiper-4.3.3.min.js"></script>
+<script>
+    var mySwiper = new Swiper('.swiper-container', {
+        loop: true,
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: '.swiper-pagination',
+        },
+    })
+</script>
+</body>
+</html>
